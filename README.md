@@ -5,14 +5,14 @@ This notebook focus to recognize Thai traiffic signs images that contain 10 clas
 
 Dataset contain 462 Images </br>
 10 Classes (40-50 images for each classes)
-1	cr	Crossroad
-2	cw	Crosswalk
-3	le	Left Always pass
-4	pr	Predestrain
-5	ro	Roundabout
-6	sc	School
-7	30	Speed Limit 30
-8	80	Speed Limit 80
-9	tl	Traffic signal ahead
-10	ut	U turn
+1.	cr	Crossroad
+2.	cw	Crosswalk
+3.	le	Left Always pass
+4.	pr	Predestrain
+5.	ro	Roundabout
+6.	sc	School
+7.	30	Speed Limit 30
+8.	80	Speed Limit 80
+9.	tl	Traffic signal ahead
+10.	ut	U turn
 Metadata in CSV format </br>
