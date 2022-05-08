@@ -1,5 +1,5 @@
 # Thai-Traffic-Signs-Recognition
-CPE387 Machine Learning project
+CPE378 Machine Learning project
 
 Dataset contain 462 Images </br>
 Metadata in CSV format
