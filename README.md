@@ -1,2 +1,2 @@
 # Thai-Traffic-Signs-Recognition
-CPE378 Machine Learning project
+CPE387Machine Learning project
