@@ -1,6 +1,6 @@
 # Thai-Traffic-Signs-Recognition
 ![link text](https://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=<COLOR>) </br>
-**Contributors** </br>
+**Contributors**
 * Wayu Ragwongsiri
 * Kanchayapond
 * Natchanapat
