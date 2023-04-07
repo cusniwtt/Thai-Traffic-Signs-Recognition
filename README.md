@@ -25,7 +25,7 @@ sc	    |   School
 80	    |   Speed Limit 80
 tl	    |   Traffic signal ahead
 ut	    |   U turn
-
+ 
 Metadata in CSV format  </br>
  
   
